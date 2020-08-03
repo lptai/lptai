@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+    <img src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+</p>
+
 <!--
 **lptai/lptai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
