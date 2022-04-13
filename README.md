@@ -10,5 +10,5 @@ Hey 👋
 - 👉 Find my resume here: https://resume.phuctaile.com
 - 💾  Or download here: https://resume.phuctaile.com/phuctaile.pdf
 <p align="center">
-    <img src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+    <img src="https://media3.giphy.com/media/mCRJDo24UvJMA/giphy.gif">
 </p>
